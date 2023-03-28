@@ -9,7 +9,7 @@ const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 const coverer = document.getElementById("coverer");
 
-const songs = [ "alexis", "summer", "ni lesa wabomba", "victoria", "theo", "the-works"];
+const songs = [ "alexis", "summer", "ni lesa wabomba", "victoria", "theo"];
 let songIndex = 1;
 
 function getSongTitle(song) {
